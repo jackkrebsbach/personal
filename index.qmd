@@ -11,7 +11,7 @@ about:
         - icon: linkedin
           text: LinkedIn
           url: https://www.linkedin.com/in/jack-krebsbach-8649041b0/
-image: img/headshot.jpg
+image: static/headshot.jpg
 comments: false
 ---
 
