@@ -15,6 +15,6 @@ image: static/headshot.jpg
 comments: false
 ---
 
-## Bio
+## About
 
 I am a PhD student studying applied mathematics at University of Colorado, Boulder. 
