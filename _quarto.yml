@@ -10,6 +10,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: https://drive.google.com/file/d/1mr9Au7_SuzLEi7eNkITbSv6O1DwVldM-/view?usp=sharing
+        text: My CV
   page-footer:
     left: "(c) Jack Krebsbach, 2024"
   open-graph: true
