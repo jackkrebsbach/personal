@@ -17,4 +17,4 @@ comments: false
 
 ## Bio
 
-I am a PhD student studying applied mathematics at University of Colorado, Boulder.  I am interested in statistics and data science.
+I am a PhD student studying applied mathematics at University of Colorado, Boulder. 
