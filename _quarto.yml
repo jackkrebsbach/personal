@@ -3,9 +3,6 @@ project:
 resources:
   - CNAME
 
-date: "last-modified"
-date-format: "YYYY"
-
 website:
   title: "Jack Krebsbach"
   description: "Jack Krebsbach is a PhD student studying Applied Mathematics and University of Colorado, Boulder"
