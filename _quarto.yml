@@ -30,7 +30,7 @@ format:
     toc_smooth_scroll: true
     toc_highlight: true
     fig-align: center
-    include-in-header:
+    include-after-body:
       text: |
         <script>
         document.addEventListener('DOMContentLoaded', (event) => {
