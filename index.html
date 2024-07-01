@@ -71,7 +71,7 @@ ul.task-list li input[type="checkbox"] {
 
 <meta property="og:title" content="Jack Krebsbach">
 <meta property="og:description" content="Jack Krebsbach is a PhD student studying Applied Mathematics and University of Colorado, Boulder">
-<meta property="og:image" content="https://jackkrebsbach.github.io/personal/img/headshot.jpg">
+<meta property="og:image" content="https://jackkrebsbach.com/img/headshot.jpg">
 <meta property="og:site_name" content="Jack Krebsbach">
 </head>
 
@@ -226,7 +226,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/jackkrebsbach\.github\.io\/personal\/");
+      var filterRegex = new RegExp("https:\/\/jackkrebsbach\.com");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

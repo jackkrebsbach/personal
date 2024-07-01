@@ -1,1 +1,1 @@
-Sitemap: https://jackkrebsbach.github.io/personal/sitemap.xml
+Sitemap: https://jackkrebsbach.com/sitemap.xml
