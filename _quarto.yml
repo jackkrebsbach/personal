@@ -3,6 +3,9 @@ project:
 resources:
   - CNAME
 
+date: "last-modified"
+date-format: "YYYY"
+
 website:
   title: "Jack Krebsbach"
   description: "Jack Krebsbach is a PhD student studying Applied Mathematics and University of Colorado, Boulder"
@@ -13,7 +16,7 @@ website:
       - href: https://drive.google.com/file/d/1mr9Au7_SuzLEi7eNkITbSv6O1DwVldM-/view?usp=sharing
         text: My CV
   page-footer:
-    left: "(c) Jack Krebsbach, 2024"
+     left: "© <span id='current-year'></span> Jack Krebsbach"
   open-graph: true
 
 format:
@@ -27,3 +30,10 @@ format:
     toc_smooth_scroll: true
     toc_highlight: true
     fig-align: center
+    include-in-header:
+      text: |
+        <script>
+        document.addEventListener('DOMContentLoaded', (event) => {
+          document.getElementById('current-year').textContent = new Date().getFullYear();
+        });
+        </script>
