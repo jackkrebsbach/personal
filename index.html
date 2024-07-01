@@ -6,6 +6,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2024-01-01">
 
 <title>Jack Krebsbach</title>
 <style>
@@ -67,6 +68,11 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
+document.addEventListener('DOMContentLoaded', (event) => {
+  document.getElementById('current-year').textContent = new Date().getFullYear();
+});
+</script>
 
 
 <meta property="og:title" content="Jack Krebsbach">
@@ -129,6 +135,12 @@ ul.task-list li input[type="checkbox"] {
 <h1 class="title">Jack Krebsbach</h1>
 </div>
 <div class="quarto-title-meta">
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">2024</p>
+    </div>
+  </div>
   </div>
 </header>
     <div class="about-links">
@@ -562,9 +574,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<ol start="3" type="a">
-<li>Jack Krebsbach, 2024</li>
-</ol>
+<p>© <span id="current-year"></span> Jack Krebsbach</p>
 </div>   
     <div class="nav-footer-center">
       &nbsp;
