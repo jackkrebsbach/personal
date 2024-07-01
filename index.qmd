@@ -10,7 +10,7 @@ about:
           url: mailto:krebsbachjackson@gmail.com
         - icon: linkedin
           text: LinkedIn
-          url: https://www.linkedin.com/in/chrisvoncsefalvay/
+          url: https://www.linkedin.com/in/jack-krebsbach-8649041b0/
 image: img/headshot.jpg
 comments: false
 ---
