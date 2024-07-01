@@ -1,0 +1,31 @@
+project:
+  type: website
+resources:
+  - CNAME
+
+website:
+  title: "Jack Krebsbach"
+  description: "Jack Krebsbach is a PhD student studying Applied Mathematics and University of Colorado, Boulder"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+  page-footer:
+    left: "(c) Jack Krebsbach, 2024"
+  open-graph: true
+
+format:
+  html:
+    theme:
+      - cosmo
+      - custom.scss
+    toc: true
+    toc_depth: 3
+    toc_float: true
+    toc_smooth_scroll: true
+    toc_highlight: true
+    fig-align: center
+
+
+
+

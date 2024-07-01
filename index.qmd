@@ -1,0 +1,20 @@
+---
+title: "Jack Krebsbach"
+about:
+    template: trestles
+    links:
+        - icon: github
+          text: Github
+          url: https://github.com/jackkrebsbach
+        - text: "{{< fa envelope >}} Email"
+          url: mailto:krebsbachjackson@gmail.com
+        - icon: linkedin
+          text: LinkedIn
+          url: https://www.linkedin.com/in/chrisvoncsefalvay/
+image: img/headshot.jpg
+comments: false
+---
+
+## Bio
+
+I am a PhD student studying Applied Mathematics at University of Colorado, Boulder. 
