@@ -10,7 +10,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: https://drive.google.com/file/d/1mr9Au7_SuzLEi7eNkITbSv6O1DwVldM-/view?usp=sharing
+      - href: https://drive.google.com/file/d/1D-coeI9EgOPKqZ0HtqHvfomOfc2Uqd_K/view?usp=sharing
         text: My CV
   page-footer:
      left: "© <span id='current-year'></span> Jack Krebsbach"
