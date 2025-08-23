@@ -10,11 +10,11 @@ about:
           url: mailto:krebsbachjackson@gmail.com
         - icon: linkedin
           text: LinkedIn
-          url: https://www.linkedin.com/in/jack-krebsbach-8649041b0/
+          url: https://www.linkedin.com/in/jackkrebsbach/
 image: static/headshot.jpg
 comments: false
 ---
 
 ## About
 
-I am a first year graduate student at the University of Colorado Boulder studying applied math.
+I am a second year graduate student at the University of Colorado Boulder studying applied math.
