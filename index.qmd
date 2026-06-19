@@ -17,4 +17,4 @@ comments: false
 
 ## About
 
-I am a second year graduate student at the University of Colorado Boulder studying applied math.
+I am a third year PhD student at the University of Colorado Boulder studying applied math.
